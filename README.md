@@ -1,1 +1,1 @@
-Encrypted sales coaching dashboard published via GitHub Pages. The page is AES-256-GCM ciphertext; nothing readable is stored here.
+This dashboard has been taken offline (GitHub Pages disabled, git history reset). No dashboard content or credentials are stored in this repo.
